@@ -1,2 +1,2 @@
 # Export-CSV-regex
-regex matches export to csv from text.
+export to csv regex matches from text.
